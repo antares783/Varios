@@ -1,0 +1,88 @@
+ANT_HOME
+c:\ant
+
+JAVA_HOME
+C:\Program Files (x86)\Java\jdk1.6.0_35
+
+PATH
+%JAVA_HOME%\bin;%ANT_HOME%\bin;
+
+http://localhost:8180/cc/ClaimCenter.do
+
+
+var c = Claim.queryClaimByClaimNumber("")
+
+print(c.Policy.Mx_Ramo)
+print(c.Policy.Mx_Subramo)
+
+http://restablece.axa-mx.intraxa/cc/ClaimCenter.do
+http://restablece.axa-mx.intraxa/cc/ClaimCenter.do
+
+
+https://troom-x.capgemini.com/sites/CCPCAxaMexico/
+
+http://10.133.244.98:8080/qcbin/start_a.jsp
+
+http://10.128.80.159/tressenlace/Misdatos/tabid/54/Default.aspx
+
+https://troom-x.capgemini.com/sites/CCPCAxaMexico/Design/Forms/StreamDocType.aspx
+
+<typekey
+    desc="Search by Segment"
+    name="Mx_Segment_pr"
+    typelist="ClaimSegment"/>
+  <column
+    desc="Search by City"
+    name="Mx_City_pr"
+    nullok="true"
+    type="varchar">
+    	<columnParam
+	   name="size"
+    	   value="50"/>
+  </column>
+
+
+5025
+
+
+JuanIgnacio.Castro@axa.com.mx
+
+92567213
+
+
+R.c. gastos medicos pasajeros helicop
+
+https://webmail.capgemini.com/OWA/
+
+mxe01506414a
+
+
+SSA561120000
+SSA483830100 
+
+
+D0124313
+
+Ya existe un Mx_Service "Reparación de Equipo"
+
+
+https://ponmx.capgemini.es/index_exp.html
+JUCASTRO	
+F3rn4nd4
+
+
+
+MXE01505855A
+
+1479
+1482
+
+MPC_CU_ComunicarEtapasServicioAjuste
+
+
+1528
+
+1533
+1538
+
+https://webmail.capgemini.com/
